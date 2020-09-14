@@ -8,7 +8,7 @@ int main() {
     for( int i = 1; i <= n/2; i++){
         for(int j = 2; j <= n/2 ; j++){
             if(j*i == n and j*i - j - i == 0){
-                cout << j<< " and " << i;
+                cout << j << " and " << i;
             }
         }
     }
