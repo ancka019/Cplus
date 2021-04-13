@@ -38,5 +38,5 @@ exit [] = {4, 5, 12, 9, 12}
 
 Реализовать алгоритм топологической сортировки графа.
 
-<a href="https://github.com/ancka019/Cplus/blob/master/4sem/nineteen/main.cpp">Решение </a>
+<a href="https://github.com/ancka019/Cplus/blob/master/4sem/nineteen%20/main.cpp">Решение </a>
 </p>
